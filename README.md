@@ -1,0 +1,2 @@
+# FAJAR
+Ligistik Regresion
